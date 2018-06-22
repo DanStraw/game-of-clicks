@@ -1,0 +1,17 @@
+#continue-div {
+    margin-top: 20px;
+    color: gold;
+    width: 300px;
+}
+
+#wrong-div {
+    margin-top: 20px;
+    color: maroon;
+    width: 300px;
+}
+
+#complete-div {
+    margin-top: 20px;
+    color: darkgreen;
+    width: 300px;
+}

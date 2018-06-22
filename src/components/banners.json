@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/images/arryn.png",
+        "name": "Arryn Banner",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/baratheon.png",
+        "name": "Baratheon Banner",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/bolton.png",
+        "name": "Bolton Banner",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/clegane.png",
+        "name": "Clegane Banner",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/frey.png",
+        "name": "Frey Banner",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/greyjoy.png",
+        "name": "Greyjoy Banner",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/lannister.png",
+        "name": "Lannister Banner",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/martell.png",
+        "name": "Martell Banner",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/mormont.png",
+        "name": "Mormont Banner",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/reed.png",
+        "name": "Reed Banner",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/selmy.png",
+        "name": "Selmy Banner",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/stark.png",
+        "name": "Stark Banner",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "image": "./assets/images/targaryen.png",
+        "name": "Targaryen Banner",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "image": "./assets/images/tarth.png",
+        "name": "Tarth Banner",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "image": "./assets/images/tully.png",
+        "name": "Tully Banner",
+        "clicked": false
+    },
+    {
+        "id": 16,
+        "image": "./assets/images/tyrell.png",
+        "name": "Tyrell Banner",
+        "clicked": false
+    }
+  ]

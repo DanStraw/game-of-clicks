@@ -1,0 +1,9 @@
+.image-box-div {
+    width: 120px;
+    height: 120px;
+    border: lightsteelblue ridge 4px;
+    margin: 6px;
+}
+.banner-image {
+    margin-top: 10px;
+}
